@@ -1,1 +1,3 @@
 ini adalah file satu.txt dibuat di vsc
+ini diedit dari github
+ini diedit dari qia12
